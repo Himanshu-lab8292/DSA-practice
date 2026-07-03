@@ -3,3 +3,4 @@
 | 1 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 04 Jul 2026 | 12:50 am |
 | 2 | [Number of 1 Bits](./LeetCode/Easy/Number%20of%201%20Bits) | [LeetCode](https://leetcode.com/problems/number-of-1-bits/) | Easy | 04 Jul 2026 | 12:50 am |
 | 3 | [Subtract the Product and Sum of Digits of an Integer](./LeetCode/Easy/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer) | [LeetCode](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | 04 Jul 2026 | 12:51 am |
+| 4 | [Number of Strings That Appear as Substrings in Word](./LeetCode/Easy/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word) | [LeetCode](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | Easy | 04 Jul 2026 | 12:51 am |

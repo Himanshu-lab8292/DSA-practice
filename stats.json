@@ -1,11 +1,11 @@
 {
-  "totalSolved": 3,
+  "totalSolved": 4,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-04",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -13,14 +13,16 @@
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
     "LeetCode_Number_of_1_Bits": true,
-    "LeetCode_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer": true
+    "LeetCode_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer": true,
+    "LeetCode_Number_of_Strings_That_Appear_as_Substrings_in_Word": true
   },
   "activityHistory": {
-    "2026-07-04": 3
+    "2026-07-04": 4
   },
   "todayProblems": [
     "Two Sum",
     "Number of 1 Bits",
-    "Subtract the Product and Sum of Digits of an Integer"
+    "Subtract the Product and Sum of Digits of an Integer",
+    "Number of Strings That Appear as Substrings in Word"
   ]
 }
