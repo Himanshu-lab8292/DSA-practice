@@ -1,14 +1,14 @@
 {
-  "totalSolved": 6,
+  "totalSolved": 7,
   "currentStreak": 1,
   "maxStreak": 1,
-  "lastSyncDate": "2026-07-10",
+  "lastSyncDate": "2026-07-14",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 4,
     "medium": 1,
     "hard": 0,
-    "basic": 1
+    "basic": 2
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -16,13 +16,15 @@
     "LeetCode_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer": true,
     "LeetCode_Number_of_Strings_That_Appear_as_Substrings_in_Word": true,
     "LeetCode_Strictly_Palindromic_Number": true,
-    "GeeksForGeeks_Array_Search": true
+    "GeeksForGeeks_Array_Search": true,
+    "GeeksForGeeks_Sum_of_Array": true
   },
   "activityHistory": {
     "2026-07-04": 5,
-    "2026-07-10": 1
+    "2026-07-10": 1,
+    "2026-07-14": 1
   },
   "todayProblems": [
-    "Array Search"
+    "Sum of Array"
   ]
 }
