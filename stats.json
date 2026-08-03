@@ -1,11 +1,11 @@
 {
-  "totalSolved": 9,
+  "totalSolved": 10,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-03",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 6,
+    "easy": 7,
     "medium": 1,
     "hard": 0,
     "basic": 2
@@ -19,16 +19,18 @@
     "GeeksForGeeks_Array_Search": true,
     "GeeksForGeeks_Sum_of_Array": true,
     "LeetCode_Concatenation_of_Array": true,
-    "Manual_Find_Unique_(0+_a)": true
+    "Manual_Find_Unique_(0+_a)": true,
+    "LeetCode_Unique_Number_of_Occurrences": true
   },
   "activityHistory": {
     "2026-07-04": 5,
     "2026-07-10": 1,
     "2026-07-14": 1,
     "2026-07-20": 1,
-    "2026-08-03": 1
+    "2026-08-03": 2
   },
   "todayProblems": [
-    "Find Unique (0+ a)"
+    "Find Unique (0+ a)",
+    "Unique Number of Occurrences"
   ]
 }

@@ -9,3 +9,4 @@
 | 7 | [Sum of Array](./GeeksForGeeks/Basic/Sum%20of%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-all-array-elements/1) | Basic | 14 Jul 2026 | 01:00 am |
 | 8 | [Concatenation of Array](./LeetCode/Easy/Concatenation%20of%20Array) | [LeetCode](https://leetcode.com/problems/concatenation-of-array/) | Easy | 20 Jul 2026 | 10:27 am |
 | 9 | [Find Unique (0+ a)](./Manual/Easy/Find%20Unique%20(0%2B%20a)) | [Manual](https://www.naukri.com/code360/problems/find-unique_625159?source=youtube&campaign=love_babbar_codestudio1&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio1&leftPanelTabValue=PROBLEM&count=25&search=&sort_entity=order&sort_order=ASC) | Easy | 03 Aug 2026 | 01:39 am |
+| 10 | [Unique Number of Occurrences](./LeetCode/Easy/Unique%20Number%20of%20Occurrences) | [LeetCode](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | 03 Aug 2026 | 12:10 pm |
