@@ -14,9 +14,8 @@ vector<int> findArrayIntersection(vector<int> &arr1, int n, vector<int> &arr2, i
 	else if(arr1[i]<arr2[j]){  // 5. Agar arr1 ka element chhota hai
 		i++;                   //    Sirf i aage badhao
     }
-	} 
-	else                       // 6. Agar arr2 ka element chhota hai
-	{
+	
+	 else{                     // 6. Agar arr2 ka element chhota hai
 		j++;                   //    Sirf j aage badhao
 	}
     
