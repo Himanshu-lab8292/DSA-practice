@@ -12,4 +12,4 @@
 | 10 | [Unique Number of Occurrences](./LeetCode/Easy/Unique%20Number%20of%20Occurrences) | [LeetCode](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | 03 Aug 2026 | 12:10 pm |
 | 11 | [Duplicate In Array](./Manual/Easy/Duplicate%20In%20Array) | [Manual](https://www.naukri.com/code360/problems/duplicate-in-array_893397?source=youtube&campaign=love_babbar_codestudio1&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio1&leftPanelTabValue=PROBLEM) | Easy | 06 Aug 2026 | 03:07 am |
 | 12 | [Find All Duplicates in an Array](./LeetCode/Medium/Find%20All%20Duplicates%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | 10 Aug 2026 | 10:32 pm |
-
+| 13 | [Pair Sum](./Manual/Easy/Pair%20Sum) | [Manual](https://www.naukri.com/code360/problems/pair-sum_697295?source=youtube&campaign=love_babbar_codestudio1&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio1&leftPanelTabValue=PROBLEM) | Easy | 21 Aug 2026 | 11:10 am |
