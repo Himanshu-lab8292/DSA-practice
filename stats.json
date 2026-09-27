@@ -1,12 +1,12 @@
 {
-  "totalSolved": 18,
+  "totalSolved": 19,
   "currentStreak": 1,
   "maxStreak": 2,
-  "lastSyncDate": "2026-09-26",
+  "lastSyncDate": "2026-09-28",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 3,
+    "medium": 4,
     "hard": 0,
     "basic": 2
   },
@@ -28,7 +28,8 @@
     "LeetCode_Set_Mismatch": true,
     "LeetCode_Container_With_Most_Water": true,
     "LeetCode_Reverse_Vowels_of_a_String": true,
-    "LeetCode_Longest_Common_Prefix": true
+    "LeetCode_Longest_Common_Prefix": true,
+    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true
   },
   "activityHistory": {
     "2026-07-04": 5,
@@ -42,9 +43,10 @@
     "2026-08-21": 1,
     "2026-09-23": 2,
     "2026-09-24": 1,
-    "2026-09-26": 1
+    "2026-09-26": 1,
+    "2026-09-28": 1
   },
   "todayProblems": [
-    "Longest Common Prefix"
+    "Find First and Last Position of Element in Sorted Array"
   ]
 }
