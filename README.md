@@ -19,3 +19,4 @@
 | 17 | [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | Easy | 26 Sept 2026 | 02:08 am |
 | 18 | [Find First and Last Position of Element in Sorted Array](./LeetCode/Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | 28 Sept 2026 | 02:52 am |
 | 19 | [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | 29 Sept 2026 | 09:57 am |
+| 20 | [Count Odd Numbers in an Interval Range](./LeetCode/Easy/Count%20Odd%20Numbers%20in%20an%20Interval%20Range) | [LeetCode](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy | 29 Sept 2026 | 10:13 am |
