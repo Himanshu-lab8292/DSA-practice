@@ -21,3 +21,4 @@
 | 19 | [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | 29 Sept 2026 | 09:57 am |
 | 20 | [Count Odd Numbers in an Interval Range](./LeetCode/Easy/Count%20Odd%20Numbers%20in%20an%20Interval%20Range) | [LeetCode](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy | 29 Sept 2026 | 10:13 am |
 | 21 | [Peak Index in a Mountain Array](./LeetCode/Medium/Peak%20Index%20in%20a%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Medium | 30 Sept 2026 | 11:07 am |
+| 22 | [Palindrome Linked List](./LeetCode/Easy/Palindrome%20Linked%20List) | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/) | Easy | 05 Oct 2026 | 09:50 am |
