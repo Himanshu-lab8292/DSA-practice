@@ -23,3 +23,4 @@
 | 21 | [Peak Index in a Mountain Array](./LeetCode/Medium/Peak%20Index%20in%20a%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Medium | 30 Sept 2026 | 11:07 am |
 | 22 | [Palindrome Linked List](./LeetCode/Easy/Palindrome%20Linked%20List) | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/) | Easy | 05 Oct 2026 | 09:50 am |
 | 23 | [Contains Duplicate](./LeetCode/Easy/Contains%20Duplicate) | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | Easy | 11 Oct 2026 | 10:45 pm |
+| 24 | [Running Sum of 1d Array](./LeetCode/Easy/Running%20Sum%20of%201d%20Array) | [LeetCode](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | 12 Oct 2026 | 09:50 am |
