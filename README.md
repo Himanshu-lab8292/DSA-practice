@@ -26,3 +26,4 @@
 | 24 | [Running Sum of 1d Array](./LeetCode/Easy/Running%20Sum%20of%201d%20Array) | [LeetCode](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | 12 Oct 2026 | 09:50 am |
 | 25 | [Find Pivot Index](./LeetCode/Easy/Find%20Pivot%20Index) | [LeetCode](https://leetcode.com/problems/find-pivot-index/) | Easy | 12 Oct 2026 | 10:37 am |
 | 26 | [Replace Elements with Greatest Element on Right Side](./LeetCode/Easy/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side) | [LeetCode](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Easy | 12 Oct 2026 | 04:42 pm |
+| 27 | [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 13 Oct 2026 | 09:56 am |
