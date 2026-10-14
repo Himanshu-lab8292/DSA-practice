@@ -1,14 +1,14 @@
 {
-  "totalSolved": 28,
-  "currentStreak": 3,
+  "totalSolved": 29,
+  "currentStreak": 1,
   "maxStreak": 3,
-  "lastSyncDate": "2026-10-13",
+  "lastSyncDate": "2026-10-15",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 20,
     "medium": 6,
     "hard": 0,
-    "basic": 2
+    "basic": 3
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -38,7 +38,8 @@
     "LeetCode_Running_Sum_of_1d_Array": true,
     "LeetCode_Find_Pivot_Index": true,
     "LeetCode_Replace_Elements_with_Greatest_Element_on_Right_Side": true,
-    "LeetCode_Product_of_Array_Except_Self": true
+    "LeetCode_Product_of_Array_Except_Self": true,
+    "GeeksForGeeks_Sum_of_Natural_Numbers": true
   },
   "activityHistory": {
     "2026-07-04": 5,
@@ -59,9 +60,10 @@
     "2026-10-05": 1,
     "2026-10-11": 1,
     "2026-10-12": 3,
-    "2026-10-13": 1
+    "2026-10-13": 1,
+    "2026-10-15": 1
   },
   "todayProblems": [
-    "Product of Array Except Self"
+    "Sum of Natural Numbers"
   ]
 }
