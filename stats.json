@@ -1,11 +1,11 @@
 {
-  "totalSolved": 30,
-  "currentStreak": 1,
+  "totalSolved": 31,
+  "currentStreak": 2,
   "maxStreak": 3,
-  "lastSyncDate": "2026-10-20",
+  "lastSyncDate": "2026-10-21",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 21,
+    "easy": 22,
     "medium": 6,
     "hard": 0,
     "basic": 3
@@ -40,7 +40,8 @@
     "LeetCode_Replace_Elements_with_Greatest_Element_on_Right_Side": true,
     "LeetCode_Product_of_Array_Except_Self": true,
     "GeeksForGeeks_Sum_of_Natural_Numbers": true,
-    "LeetCode_Remove_Duplicates_from_Sorted_Array": true
+    "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
+    "GeeksForGeeks_Array_Leaders": true
   },
   "activityHistory": {
     "2026-07-04": 5,
@@ -63,9 +64,10 @@
     "2026-10-12": 3,
     "2026-10-13": 1,
     "2026-10-15": 1,
-    "2026-10-20": 1
+    "2026-10-20": 1,
+    "2026-10-21": 1
   },
   "todayProblems": [
-    "Remove Duplicates from Sorted Array"
+    "Array Leaders"
   ]
 }
