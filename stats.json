@@ -1,11 +1,11 @@
 {
-  "totalSolved": 31,
-  "currentStreak": 2,
+  "totalSolved": 32,
+  "currentStreak": 1,
   "maxStreak": 3,
-  "lastSyncDate": "2026-10-21",
+  "lastSyncDate": "2026-11-07",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 22,
+    "easy": 23,
     "medium": 6,
     "hard": 0,
     "basic": 3
@@ -41,7 +41,8 @@
     "LeetCode_Product_of_Array_Except_Self": true,
     "GeeksForGeeks_Sum_of_Natural_Numbers": true,
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
-    "GeeksForGeeks_Array_Leaders": true
+    "GeeksForGeeks_Array_Leaders": true,
+    "LeetCode_Squares_of_a_Sorted_Array": true
   },
   "activityHistory": {
     "2026-07-04": 5,
@@ -65,9 +66,10 @@
     "2026-10-13": 1,
     "2026-10-15": 1,
     "2026-10-20": 1,
-    "2026-10-21": 1
+    "2026-10-21": 1,
+    "2026-11-07": 1
   },
   "todayProblems": [
-    "Array Leaders"
+    "Squares of a Sorted Array"
   ]
 }
